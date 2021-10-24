@@ -27,7 +27,7 @@ I❤️ code, Python and anything CREATIVE✨
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=android-iceland&layout=compact)">
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=android-iceland&theme=redical)](https://github.com/android-iceland/github-readme-activity-graph)
+[![Android Iceland's github activity graph](https://activity-graph.herokuapp.com/graph?username=android-iceland&theme=redical)](https://github.com/android-iceland/github-readme-activity-graph)
 
 
 
